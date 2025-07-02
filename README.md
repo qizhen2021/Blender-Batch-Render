@@ -18,3 +18,5 @@
 # 定时关机
 打开后，渲染完全部项目后会在1分钟后关闭电脑。
 ![image](https://github.com/user-attachments/assets/08f82028-f965-47a5-861d-cd6a776ab526)
+# 具体操作可以查看一下B站视频介绍
+https://www.bilibili.com/video/BV16M3KzhEqZ/?spm_id_from=333.1387.list.card_archive.click&vd_source=8647a6978ecadd0ab8d2381ecd7de48e
