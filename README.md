@@ -15,3 +15,6 @@
 ![image](https://github.com/user-attachments/assets/17667bc6-6c64-4ad8-bcdb-c454df34dcd7)
 # 全局设置界面
 ![image](https://github.com/user-attachments/assets/1b3a34be-4702-4306-847f-bf5d831a9e24)
+# 定时关机
+打开后，渲染完全部项目后会在1分钟后关闭电脑。
+![image](https://github.com/user-attachments/assets/08f82028-f965-47a5-861d-cd6a776ab526)
