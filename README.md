@@ -1,5 +1,4 @@
-# Blender-Batch-Render
-# blender批量渲染
+# Blender-Batch-Render/blender批量渲染
 # 渲染设置界面
 可以批量选择多个文件项目，批量管理场景和相机，可高自定义修改单独相机参数。
 ![image](https://github.com/user-attachments/assets/d300f35e-fbba-440d-9c6b-dc19e5ab4f69)
